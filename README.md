@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Data Analys
+🌱 I’m currently learning Data Analys tes
 🌱 I’m currently learning Data Analys
