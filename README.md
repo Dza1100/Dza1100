@@ -34,10 +34,17 @@
   </a>
 </p>
 
-##### <h5 align="center"> 📊 GitHub Stats</h5>
+<!-- ##### <h5 align="center"> 📊 GitHub Stats</h5>
 ![](https://github-readme-stats.vercel.app/api?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dza1100&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<h5 align="center">📊 GitHub Stats</h5>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dza1100&theme=monokai&hide_border=false"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
 
 ##### <h5 align="center"> 📊 Quote</h5>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
