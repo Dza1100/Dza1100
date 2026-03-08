@@ -1,7 +1,10 @@
 ![Header](img/github-header-banner.png)
 
+<h4 align="center">🪄About Me 🧩</h4>
+<p align="center">Fun Fact : Sometimes my best code happens after midnight.</p>
+
 <!-- #### SkillS -->
-<h5 align="center">🪄Technologies & Tools 🧩</h5>
+<h4 align="center">🪄Technologies & Tools 🧩</h4>
 
 <!-- <img src="https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />
@@ -27,7 +30,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=css,figma,html,py,&perline=5)](https://skillicons.dev) -->
 
 <!-- #### Connect Me  -->
-<h5 align="center">Let's Connect!😎</h5>
+<h4 align="center">Let's Connect!😎</h4>
 <p align="center">
   <a href="https://instagram.com/instagram.com/pipitnabiladza" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -40,12 +43,12 @@
   </a>
 </p>
 
-##### 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dza1100&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h5 align="center">📊 Quote</h5>
+<h4 align="center">📊 Quote</h4>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
