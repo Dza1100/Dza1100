@@ -29,27 +29,23 @@
 <!-- #### Connect Me  -->
 <h5 align="center">Let's Connect!😎</h5>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail" />
+  <a href="https://instagram.com/instagram.com/pipitnabiladza" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="www.linkedin.com/in/pipit-nabila-dza-habyyah-8b4579319" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:pipitdzahabyyah11@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<!-- ##### <h5 align="center"> 📊 GitHub Stats</h5>
+##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dza1100&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h5 align="center">📊 GitHub Stats</h5>
+<h5 align="center">📊 Quote</h5>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dza1100&theme=monokai&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dza1100&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-##### <h5 align="center"> 📊 Quote</h5>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dza1100=0&color=10)](https://visitcount.itsvg.in)
-
-
